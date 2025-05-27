@@ -21,7 +21,7 @@
     * [1.6.3 The Key Idea](#163-the-key-idea)
 * [1.7 Testing’s Contributions to Success 🏆](#17-testings-contributions-to-success-)
 * [1.8 Quality Assurance (QA) vs. Quality Control (QC) & Testing 📈](#18-quality-assurance-qa-vs-quality-control-qc--testing-)
-* [1.9 Seven Testing Principles 📜](#19--Seven--Testing--Principles-)
+* [1.9 Seven Testing Principles 📜](#19-Seven-Testing-Principles-)
 
 ---
 
