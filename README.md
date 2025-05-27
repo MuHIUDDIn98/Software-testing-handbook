@@ -20,9 +20,10 @@
     * [1.6.2 Validation as the Destination 🏁📍](#162-validation-as-the-destination-)
     * [1.6.3 The Key Idea](#163-the-key-idea)
 * [1.7 Testing’s Contributions to Success 🏆](#17-testings-contributions-to-success-)
-* [1.8 Quality Assurance (QA) vs. Quality Control (QC) & Testing 📈](#18-quality-assurance-qa-vs-quality-control-qc--testing-)
+* [1.8 Quality Assurance (QA) vs. Quality Control (QC) & Testing 📈](#18-quality-assurance-qa-vs-quality-control-qc--testing)
 * [1.9 Seven Testing Principles 📜](#19-Seven-Testing-Principles-)
-* [1.10 The Fundamental Test Process ⚙️](#110-The-Fundamental-Test-Process-)
+* [1.10 The Fundamental Test Process ⚙️](#110-the-fundamental-test-process)
+* [1.11 Test Levels: Building Quality Layer by Layer 🧱](#111-test-levels-building-quality-layer-by-layer)
 
 ---
 
@@ -413,3 +414,70 @@ While specific implementations vary (especially in Agile), most testing follows 
 * **Test Summary Report:** A comprehensive overview of the testing phase.
 * **Archived Test Assets:** A repository of all testing materials.
 ---
+
+# 1.11 Test Levels: Building Quality Layer by Layer 🧱
+
+Testing isn't a single event; it happens at different stages, or levels, each with its own focus. Think of it like building a house – you check the foundation, then the walls, then the systems (plumbing, electrics), and finally, the finished house.
+
+---
+
+## Component Testing (Unit Testing) 🧩
+
+**What:** Testing individual software components or modules in isolation. This is often done by developers.
+
+**Focus:** Functionality within the component, code structure, data handling.
+
+**Test Basis:** Detailed design, code, data models.
+
+**Goal:** Ensure each individual piece works correctly before it's combined with others.
+
+**Example:** Testing a single function that calculates tax in an e-commerce app.
+
+---
+
+## Integration Testing 🤝
+
+**What:** Testing the interfaces and interactions between components or systems.
+
+**Focus:** How well different parts communicate and work together. Can be component integration (within one system) or system integration (between different systems).
+
+**Test Basis:** Software & system design, architecture, workflows.
+
+**Goal:** Find issues in the handoffs and data flow between integrated parts.
+
+**Example:** Testing if the "Add to Cart" component correctly updates the "Shopping Cart" component and the "Inventory" system.
+
+---
+
+## System Testing 🌐
+
+**What:** Testing the entire, integrated system as a whole.
+
+**Focus:** Overall end-to-end behavior, functionality, and non-functional aspects (like performance, security) from the perspective of the system requirements.
+
+**Test Basis:** System requirements, functional specifications, user manuals.
+
+**Goal:** Verify that the complete system meets its specified requirements and works as expected in its intended (or simulated) environment.
+
+**Example:** Testing the entire e-commerce website, from searching for a product to adding it to the cart, checking out, and receiving an order confirmation.
+
+---
+
+## Acceptance Testing (UAT) ✅
+
+**What:** Formal testing, often by users or customers, to determine if the system satisfies its acceptance criteria and is ready for deployment.
+
+**Focus:** Whether the system is "fit for purpose" and meets business or user needs.
+
+**Test Basis:** User requirements, business processes, acceptance criteria.
+
+**Goal:** Gain confidence that the system is ready for use and to make the "go/no-go" decision.
+
+**Types:**
+* **User Acceptance Testing (UAT):** By business users.
+* **Operational Acceptance Testing (OAT):** By operations/systems admin.
+* **Contractual/Regulatory Acceptance Testing:** Checking against contracts or regulations.
+* **Alpha Testing:** Internal testing by a limited group before release.
+* **Beta Testing:** External testing by a wider audience before full release.
+
+**Example:** Having actual customers try to purchase items on the new e-commerce site before it goes live to the public.
