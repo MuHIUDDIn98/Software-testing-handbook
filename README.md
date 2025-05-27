@@ -298,9 +298,10 @@ Testing a mobile game will focus heavily on usability, performance across differ
 Finding and fixing lots of defects doesn't guarantee a successful system. If the system is hard to use, doesn't meet user needs, or is simply not the right product, it will fail, even if it's bug-free.
 
 **Takeaway:** Remember Validation! Ensure the software is not only built right but is also the right product.
-
-**Example:**
+---
+***Example:***
 A development team builds a technically perfect photo-sharing app. It's fast, has no crashes, and every feature works as designed. However, they discover that users find the interface confusing and the features offered aren't what they actually want or need. Despite being "bug-free," the app is a failure because it doesn't meet user expectations or solve their problems.
+---
 ---
 # 1.10 The Fundamental Test Process ⚙️
 
