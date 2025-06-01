@@ -920,3 +920,4 @@ A successful tester cultivates the following traits:
 
 ---
 # Chapter 2: Testing Throughout the Software Development Lifecycle
+---
