@@ -9,23 +9,31 @@
 * [1.2 Verification vs. Validation: The Dynamic Duo 🦸‍♂️🦸‍♀️](#12-verification-vs-validation-the-dynamic-duo-)
     * [1.2.1 Verification ("Are we building the product *right*?")](#121-verification-are-we-building-the-product-right)
     * [1.2.2 Validation ("Are we building the *right* product?")](#122-validation-are-we-building-the-right-product)
-* [1.3 The Core Difference (Analogy Time!) 💡](#13-the-core-difference-analogy-time-)
-* [1.4 In Short](#14-in-short)
-* [1.5 Verification & Validation Examples](#15-verification--validation-examples)
-    * [1.5.1 Example 1: Mobile Banking App 📱💰](#151-example-1-mobile-banking-app-)
-    * [1.5.2 Example 2: E-commerce Website 🛒💻](#152-example-2-e-commerce-website-)
-    * [1.5.3 Example 3: A Video Game 🎮🕹️](#153-example-3-a-video-game-)
-* [1.6 Verification: The Journey, Validation: The Destination 🗺️➡️🏁](#16-verification-the-journey-validation-the-destination-️)
-    * [1.6.1 Verification as the Journey 🚶‍♂️🗺️](#161-verification-as-the-journey-️)
-    * [1.6.2 Validation as the Destination 🏁📍](#162-validation-as-the-destination-)
-    * [1.6.3 The Key Idea](#163-the-key-idea)
-    * [1.6.4 Errors, Defects, and Failures](#164-errors-defects-and-failures-explained-with-an-analogy)
+    * [1.2.3 The Core Difference (Analogy Time!) 💡](#13-the-core-difference-analogy-time-)
+    * [1.2.4 In Short](#14-in-short)
+    * [1.2.5 Verification & Validation Examples](#125-verification--validation-examples)
+         * [1.2.5.1 Example 1: Mobile Banking App 📱💰](#1251-example-1-mobile-banking-app-)
+         * [1.2.5.2 Example 2: E-commerce Website 🛒💻](#1252-example-2-e-commerce-website-)
+         * [1.2.5.3 Example 3: A Video Game 🎮🕹️](#1253-example-3-a-video-game-)
+    * [1.2.6 Verification: The Journey, Validation: The Destination 🗺️➡️🏁](#126-verification-the-journey-validation-the-destination-️)
+    * [1.2.7 Verification as the Journey 🚶‍♂️🗺️](#127-verification-as-the-journey-️)
+    * [1.2.8 Validation as the Destination 🏁📍](#128-validation-as-the-destination-)
+    * [1.2.9 The Key Idea](#129-the-key-idea)
+* [1.3 Errors, Defects, and Failures](#13-errors-defects-and-failures-explained-with-an-analogy)
 
-* [1.7 Testing’s Contributions to Success 🏆](#17-testings-contributions-to-success-)
-* [1.8 Quality Assurance (QA) vs. Quality Control (QC) & Testing 📈](##18-quality-assurance-(QA)-vs-quality-control-(QC)-&-testing)
-* [1.9 Seven Testing Principles 📜](#19-Seven-Testing-Principles-)
-* [1.10 The Fundamental Test Process ⚙️](#110-the-fundamental-test-process)
-* [1.11 Test Levels: Building Quality Layer by Layer 🧱](#111-test-levels-building-quality-layer-by-layer)
+* [1.4 Testing’s Contributions to Success 🏆](#14-testings-contributions-to-success-)
+* [1.5 Quality Assurance (QA) vs. Quality Control (QC) & Testing 📈](##15-quality-assurance-(QA)-vs-quality-control-(QC)-&-testing)
+* [1.6 Seven Testing Principles 📜](#16-Seven-Testing-Principles-)
+* [1.7 The Fundamental Test Process ⚙️](#17-the-fundamental-test-process)
+* [1.8 Test Levels: Building Quality Layer by Layer 🧱](#18-test-levels-building-quality-layer-by-layer)
+
+
+
+
+
+
+
+
 
 ---
 
@@ -51,6 +59,14 @@ Testing isn't just one thing; it's a mission with multiple, vital objectives!
 * **📉 Reduce the Level of Risk:** Lowering the chance of failure in production.
 * **⚖️ Ensure Compliance:** Meeting legal, contractual, and industry standards.
 
+
+
+
+
+
+
+
+
 ---
 
 ## 1.2 Verification vs. Validation: The Dynamic Duo 🦸‍♂️🦸‍♀️
@@ -69,7 +85,7 @@ Testing isn't just one thing; it's a mission with multiple, vital objectives!
 
 ---
 
-## 1.3 The Core Difference (Analogy Time!) 💡
+## 1.2.3 The Core Difference (Analogy Time!) 💡
 
 > **Verification** is like checking the **blueprint** and **construction** of a house 🏗️.
 > **Validation** is like asking the **homeowner** if the finished house **meets their needs** 🏠.
@@ -78,17 +94,17 @@ Testing isn't just one thing; it's a mission with multiple, vital objectives!
 
 ---
 
-## 1.4 In Short
+## 1.2.4 In Short
 
 Both V&V are crucial! You need to build the product correctly (**Verification**) *and* build the correct product that users want and need (**Validation**).
 
 ---
 
-## 1.5 Verification & Validation Examples
+## 1.2.5 Verification & Validation Examples
 
 Here are some real-world scenarios:
 
-### 1.5.1 Example 1: Mobile Banking App 📱💰
+### 1.2.5.1 Example 1: Mobile Banking App 📱💰
 
 #### Verification ("Building it right")
 
@@ -104,7 +120,7 @@ Here are some real-world scenarios:
 * **Usability Testing:** Observing new users to check for intuitiveness.
 * **Performance Testing:** Checking app behavior under heavy user load.
 
-### 1.5.2 Example 2: E-commerce Website 🛒💻
+### 1.2.5.2 Example 2: E-commerce Website 🛒💻
 
 #### Verification ("Building it right")
 
@@ -120,7 +136,7 @@ Here are some real-world scenarios:
 * **A/B Testing:** Comparing designs to see which converts better.
 * **Accessibility Testing:** Ensuring users with disabilities can use the site.
 
-### 1.5.3 Example 3: A Video Game 🎮🕹️
+### 1.2.5.3 Example 3: A Video Game 🎮🕹️
 
 #### Verification ("Building it right")
 
@@ -136,13 +152,13 @@ Here are some real-world scenarios:
 
 ---
 
-## 1.6 Verification: The Journey, Validation: The Destination 🗺️➡️🏁
+## 1.2.6 Verification: The Journey, Validation: The Destination 🗺️➡️🏁
 
 This analogy provides a memorable way to understand the distinct roles:
 
 > **"Verification ensures you travel *correctly* on your development journey, while Validation confirms you've arrived at the *right destination* for your users."**
 
-### 1.6.1 Verification as the Journey 🚶‍♂️🗺️
+### 1.2.6.1 Verification as the Journey 🚶‍♂️🗺️
 
 Verification is like the checks you perform *during* your travels:
 
@@ -151,7 +167,7 @@ Verification is like the checks you perform *during* your travels:
 * **Following road rules:** Adhering to coding standards and best practices.
 * **Focus:** The *process*, the *steps*, *how* it's built, and adherence to the *plan*.
 
-### 1.6.2 Validation as the Destination 🏁📍
+### 1.2.6.2 Validation as the Destination 🏁📍
 
 Validation is like the check when you *arrive*:
 
@@ -160,12 +176,12 @@ Validation is like the check when you *arrive*:
 * **Experience Check:** Is it usable, performant, and does it *work*?
 * **Focus:** The *end result*, the *outcome*, *user satisfaction*, and the *goal*.
 
-### 1.6.3 The Key Idea
+### 1.2.6.3 The Key Idea
 
 * **Verification = Building the product *right*.** (Following the recipe)
 * **Validation = Building the *right* product.** (Making a cake that tastes good)
 ---
-### 1.6.4 Errors, Defects, and Failures Explained with an Analogy
+### 1.3 Errors, Defects, and Failures Explained with an Analogy
 
 Understanding software issues can be tricky, but an analogy can help clarify things. Let's imagine you're **baking a cake** 🍰 to represent building software.
 
@@ -241,7 +257,7 @@ This is more dangerous because real problems go undetected.
 
 ---
 
-## 1.7 Testing’s Contributions to Success 🏆
+## 1.4 Testing’s Contributions to Success 🏆
 
 Testing isn't just about finding bugs at the end; it's a vital partner in success throughout the development lifecycle! Here’s how early and continuous tester involvement makes a huge difference:
 
@@ -267,29 +283,9 @@ Testing isn't just about finding bugs at the end; it's a vital partner in succes
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ---
 
-## 1.8 Quality Assurance (QA) vs. Quality Control (QC) & Testing 📈
+## 1.5 Quality Assurance (QA) vs. Quality Control (QC) & Testing 📈
 
 Understanding how Testing fits within the broader scope of Quality Management is key.
 
@@ -324,7 +320,7 @@ While distinct, QA and QC work together: QA tries to ensure defects don't happen
 **In essence:** QA builds the framework to *prevent* problems, while QC (including Testing) *finds* problems within that framework, both working together to achieve overall quality.
 
 ---
-## 1.9 Seven Testing Principles 📜
+## 1.6 Seven Testing Principles 📜
 
 These are the foundational truths of software testing. Understanding them helps guide our efforts and set realistic expectations.
 
@@ -406,7 +402,7 @@ Finding and fixing lots of defects doesn't guarantee a successful system. If the
 A development team builds a technically perfect photo-sharing app. It's fast, has no crashes, and every feature works as designed. However, they discover that users find the interface confusing and the features offered aren't what they actually want or need. Despite being "bug-free," the app is a failure because it doesn't meet user expectations or solve their problems.
 ---
 ---
-# 1.10 The Fundamental Test Process ⚙️
+# 1.7 The Fundamental Test Process ⚙️
 
 While specific implementations vary (especially in Agile), most testing follows a core process with distinct phases. Understanding these helps structure testing activities.
 
@@ -517,7 +513,7 @@ While specific implementations vary (especially in Agile), most testing follows 
 * **Archived Test Assets:** A repository of all testing materials.
 ---
 
-# 1.11 Test Levels: Building Quality Layer by Layer 🧱
+# 1.8 Test Levels: Building Quality Layer by Layer 🧱
 
 Testing isn't a single event; it happens at different stages, or levels, each with its own focus. Think of it like building a house – you check the foundation, then the walls, then the systems (plumbing, electrics), and finally, the finished house.
 
