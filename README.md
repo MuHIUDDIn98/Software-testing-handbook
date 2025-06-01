@@ -22,7 +22,7 @@
     * [1.6.4 Errors, Defects, and Failures](#164-errors-defects-and-failures-explained-with-an-analogy)
 
 * [1.7 Testing’s Contributions to Success 🏆](#17-testings-contributions-to-success-)
-* [1.8 Quality Assurance (QA) vs. Quality Control (QC) & Testing 📈](##18-quality-assurance-qa-vs-quality-control-qc--testing)
+* [1.8 Quality Assurance (QA) vs. Quality Control (QC) & Testing 📈](##18-quality-assurance-qa-vs-quality-control-qc-&-testing)
 * [1.9 Seven Testing Principles 📜](#19-Seven-Testing-Principles-)
 * [1.10 The Fundamental Test Process ⚙️](#110-the-fundamental-test-process)
 * [1.11 Test Levels: Building Quality Layer by Layer 🧱](#111-test-levels-building-quality-layer-by-layer)
