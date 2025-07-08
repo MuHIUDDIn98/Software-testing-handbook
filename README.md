@@ -6,6 +6,12 @@
 
 * [1.1 What is Testing? 🧐](chapters/chapter-01/1.1_What%20is%20Testing.md)
     * [1.1.1 Typical Objectives of Testing 🎯](chapters/chapter-01/1.1_What%20is%20Testing.md#111-typical-objectives-of-testing-)
+    * [Test Objectives Across SDLC Phases 🔄 ](chapters/chapter-01/1.1.1_Test%20Objectives%20Across%20SDLC%20Phases.md)
+    * [1.1.2 Static Vs dynamic testing](chapters/chapter-01/1.1.2_static_dynamic_testing.md)
+    * [1.1.3 Common test cycle](chapters/chapter-01/1.1.3_common_test_cycle.md)
+    * [1.1.4 Testing Vs Debugging](chapters/chapter-01/1.1.4_Testing_vs_debuggin.md)
+    * [1.1.5 whay Testing necessary ?](chapters/chapter-01/1.1.4_Testing_vs_debuggin.md#why-testing-is-necessary-️)
+
 * [1.2 Verification vs. Validation: The Dynamic Duo 🦸‍♂️🦸‍♀️](chapters/chapter-01/1.2_varification_vs_validation.md#12-verification-vs-validation-the-dynamic-duo-)
     * [1.2.1 Verification ("Are we building the product *right*?")](chapters/chapter-01/1.2_varification_vs_validation.md#121-verification-are-we-building-the-product-right)
     * [1.2.2 Validation ("Are we building the *right* product?")](chapters/chapter-01/1.2_varification_vs_validation.md#122-validation-are-we-building-the-right-product)
