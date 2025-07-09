@@ -8,10 +8,17 @@
     * [Project vs Product](chapters/chapter-01/0.1_project_vs_product.md)
     * [Product Vs service based company ](chapters/chapter-01/0.4_product_based_service_based.md)
     * [What is software Quality?](chapters/chapter-01/0.2_What%20is%20software_quality.md)
+    * [Under standing PPP](chapters/chapter-01/0.3_Understanding%20the%203%20P's.md)
+    
 
 * [1.1 What is Testing? 🧐](chapters/chapter-01/1.1_What%20is%20Testing.md)
     * [1.1.1 Typical Objectives of Testing 🎯](chapters/chapter-01/1.1_What%20is%20Testing.md#111-typical-objectives-of-testing-)
+    * [What is SDLC?](chapters/chapter-01/1.1.1.1_SDLC.md)
+    * [SDLC primtive waterfall model](chapters/chapter-01/1.1.1.2_SDLC_WaterfallModel.md)
+    * [SDLC Spiral Model](chapters/chapter-01/1.1.1.3_SDLC_Spiral%20Model.md)
+    * [SDLC V Model](chapters/chapter-01/1.1.1.4_SDLC_V_Model.md)
     * [Test Objectives Across SDLC Phases 🔄 ](chapters/chapter-01/1.1.1_Test%20Objectives%20Across%20SDLC%20Phases.md)
+    * [Static and dynamic testing in VV Model](chapters/chapter-01/1.1.1.5_static-Vs-Dynamic.md)
     * [1.1.2 Static Vs dynamic testing](chapters/chapter-01/1.1.2_static_dynamic_testing.md)
     * [1.1.3 Common test cycle](chapters/chapter-01/1.1.3_common_test_cycle.md)
     * [1.1.4 Testing Vs Debugging](chapters/chapter-01/1.1.4_Testing_vs_debuggin.md)
