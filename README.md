@@ -4,6 +4,11 @@
 
 ## Table of Contents
 
+* [0.0 What is software?](chapters/chapter-01/00_What_is_software.md)
+    * [Project vs Product](chapters/chapter-01/0.1_project_vs_product.md)
+    * [Product Vs service based company ](chapters/chapter-01/0.4_product_based_service_based.md)
+    * [What is software Quality?](chapters/chapter-01/0.2_What%20is%20software_quality.md)
+
 * [1.1 What is Testing? 🧐](chapters/chapter-01/1.1_What%20is%20Testing.md)
     * [1.1.1 Typical Objectives of Testing 🎯](chapters/chapter-01/1.1_What%20is%20Testing.md#111-typical-objectives-of-testing-)
     * [Test Objectives Across SDLC Phases 🔄 ](chapters/chapter-01/1.1.1_Test%20Objectives%20Across%20SDLC%20Phases.md)
