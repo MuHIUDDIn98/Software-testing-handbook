@@ -4,7 +4,7 @@
 
 ## Table of Contents
 
-* [0.0 What is software?](chapters/chapter-01/00_What_is_software.md)
+* [0.0 What is software?](chapters/chapter-01/0.0_What_is_software.md)
     * [Project vs Product](chapters/chapter-01/0.1_project_vs_product.md)
     * [Product Vs service based company ](chapters/chapter-01/0.4_product_based_service_based.md)
     * [What is software Quality?](chapters/chapter-01/0.2_What%20is%20software_quality.md)
