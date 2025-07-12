@@ -62,6 +62,13 @@
     * [1.8.5 The Pesticide Paradox 🦟🚫](chapters/chapter-01/1.8_Seven%20Testing%20Principles.md##185-the-pesticide-paradox-)
     * [1.8.6 Testing is Context-Dependent 🌐](chapters/chapter-01/1.8_Seven%20Testing%20Principles.md##186-testing-is-context-dependent-)
     * [1.8.7 Absence-of-Errors Fallacy 🤔](chapters/chapter-01/1.8_Seven%20Testing%20Principles.md##187-absence-of-errors-fallacy-)
+
+* [1.9.0 What is  STLC ? ](chapters/chapter-01/1.9.0_STLC.md)
+    * [Test plan Document contents](chapters/chapter-01/1.9.1_Test_plan_document_contents.md)
+    * [Use case,Test senario ,Test cases ](chapters/chapter-01/1.9.2_Use_case,Test_senario_test_Case.md)
+    * [RTM-> Requirement Traceability Matrix](chapters/chapter-01/1.9.3_Requirement_Traceability_Matrix.md)
+    * [Test Environment and Test Execution](chapters/chapter-01/1.9.4_test_Env_Text_Execution.md)
+
 * [1.9 The Fundamental Test Process ⚙️](chapters/chapter-01/1.9_The%20Fundamental%20Test%20Process.md#19-the-fundamental-test-process-)
     * [1.9.1 Test Planning 📅](chapters/chapter-01/1.9_The%20Fundamental%20Test%20Process.md#191-test-planning-)
     * [1.9.2 Test Monitoring & Control 📊](chapters/chapter-01/1.9_The%20Fundamental%20Test%20Process.md#192-test-monitoring--control-)
